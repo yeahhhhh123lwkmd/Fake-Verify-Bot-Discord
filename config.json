@@ -5,7 +5,7 @@
     "prefix": "*",
     "command_name": "start",
     
-    "give_role": false,
+    "give_role": true,
     "role_name": "verified",
 
     "mass_dm": 3,
